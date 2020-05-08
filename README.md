@@ -1,4 +1,5 @@
 # Face Similarity Metrics via Face Morphing
+All code and data is stored in this repo: (https://github.com/rtb-illinois/rtb2-cs445-sp20-final-project)
 This is Ryan Baker's (NetID: rtb2) final project for CS 445 (Computation Photography) in Spring 2020
 at the University of Illinois, Urbana-Champaign.
 A full report of this project is included in `rtb2_project_report.pdf` in this repo.
