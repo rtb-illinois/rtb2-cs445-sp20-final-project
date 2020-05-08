@@ -1,5 +1,8 @@
 # Face Similarity Metrics via Face Morphing
+This is Ryan Baker's (NetID: rtb2) final project for CS 445 (Computation Photography) in Spring 2020
+at the University of Illinois, Urbana-Champaign.
 A full report of this project is included in `rtb2_project_report.pdf` in this repo.
+Result morphing videos can be found [here](https://www.youtube.com/playlist?list=PLbYxLwBJLS8cj2zsNp1fGOFNklfjE0njQ)
 
 ## Setup
 
